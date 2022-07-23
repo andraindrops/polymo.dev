@@ -22,11 +22,11 @@ const App = ({ Component, pageProps: { session, ...pageProps } }: AppPropsWithLa
   return getLayout(
     <SessionProvider session={session}>
       <Head>
-        <title>Polymo — Polymo is a tool that makes MVP development x10 faster by generating the Next.js + standard OSS code base.</title>
+        <title>Polymo — Polymo is a web app code base generator for development x10 faster</title>
         <meta property="og:url" content="https://polymo.dev/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Polymo" />
-        <meta property="og:description" content="Polymo is a tool that makes MVP development x10 faster by generating the Next.js + standard OSS code base." />
+        <meta property="og:description" content="Polymo is a web app code base generator for development x10 faster" />
         <meta property="og:site_name" content="Polymo" />
         <meta property="og:image" content="https://polymo.dev/favicon.ico" />
       </Head>

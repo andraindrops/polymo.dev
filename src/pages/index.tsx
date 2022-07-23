@@ -37,7 +37,7 @@ const Page = (): JSX.Element => {
         <img src="/index/kv.svg" alt="kv" className="mx-auto max-h-60" />
         <h1 className="mt-8 text-6xl font-bold">Polymo</h1>
         <Stack className="mt-8">
-          <h2 className="text-2xl">Polymo is a tool that makes MVP development x10 faster by generating the Next.js + standard OSS code base.</h2>
+          <h2 className="text-2xl">Polymo is a web app code base generator for development x10 faster.</h2>
           <Stack>
             <Stack>
               <Stack className="gap-2">
