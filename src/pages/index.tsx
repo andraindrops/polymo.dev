@@ -85,7 +85,7 @@ const Page = (): JSX.Element => {
                   title="Styling"
                   description={
                     <>
-                      Layout style rules and <Link href="https://tailwindcss.com/">Tailwind</Link> and <Link href="https://daisyui.com/">daisyUI</Link> settings.
+                      Layout style rules and <Link href="https://chakra-ui.com/">Chakra UI</Link> settings.
                     </>
                   }
                 />
