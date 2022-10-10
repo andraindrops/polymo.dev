@@ -37,7 +37,7 @@ const Page = (): JSX.Element => {
         <img src="/index/kv.svg" alt="kv" className="mx-auto max-h-60" />
         <h1 className="mt-8 text-6xl font-bold">Polymo</h1>
         <Stack className="mt-8">
-          <h2 className="text-2xl">Polymo is a web app code base generator for development x10 faster.</h2>
+          <h2 className="text-2xl">Polymo is Next.js full package boilerplate.</h2>
           <Stack>
             <Stack>
               <Stack className="gap-2">
@@ -97,14 +97,6 @@ const Page = (): JSX.Element => {
                     </>
                   }
                 />
-              </Stack>
-            </Stack>
-            <Stack>
-              <Stack className="gap-2">
-                <h3 className="text-xl font-bold">CRUD scaffolding</h3>
-                <p>
-                  You can build CRUD view and form and GraphQL server / client codes with <Link href="https://github.com/cats-oss/scaffdog">scaffdog</Link>.
-                </p>
               </Stack>
             </Stack>
             <Stack>
