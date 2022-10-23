@@ -93,7 +93,7 @@ const Page = (): JSX.Element => {
                   title="Test / Link / Formatting"
                   description={
                     <>
-                      <Link href="https://storybook.js.org/">Storybook</Link>, <Link href="https://jestjs.io/">jest</Link>, <Link href="https://prettier.io/">Prettier</Link>, <Link href="https://eslint.org/">ESLint</Link>, <Link href="https://commitlint.js.org/#/">commitlint</Link>, <Link href="https://typicode.github.io/husky/#/">husky</Link>, <Link href="https://pre-commit.com/">pre-commit</Link>.
+                      <Link href="https://storybook.js.org/">Storybook</Link>, <Link href="https://jestjs.io/">Jest</Link>, <Link href="https://prettier.io/">Prettier</Link>, <Link href="https://eslint.org/">ESLint</Link>, <Link href="https://commitlint.js.org/#/">commitlint</Link>, <Link href="https://typicode.github.io/husky/#/">Husky</Link>, <Link href="https://pre-commit.com/">pre-commit</Link>.
                     </>
                   }
                 />
