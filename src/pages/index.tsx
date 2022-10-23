@@ -48,7 +48,7 @@ const Page = (): JSX.Element => {
                 <h3 className="text-xl font-bold">Features</h3>
                 <p>We provide basic features with standard OSS.</p>
               </Stack>
-              <Stack className="sm:grid-cols-2">
+              <Stack className="sm:grid-cols-1 font-mono">
                 <Feature
                   title="Form"
                   description={
@@ -85,15 +85,15 @@ const Page = (): JSX.Element => {
                   title="Styling"
                   description={
                     <>
-                      Layout style rules and <Link href="https://chakra-ui.com/">Chakra UI</Link> settings.
+                      <Link href="https://chakra-ui.com/">Chakra UI</Link>.
                     </>
                   }
                 />
                 <Feature
-                  title="Formatting"
+                  title="Test / Link / Formatting"
                   description={
                     <>
-                      Code format rules with <Link href="https://prettier.io/">Prettier</Link> and <Link href="https://eslint.org/">ESLint</Link>.
+                      <Link href="https://storybook.js.org/">Storybook</Link>, <Link href="https://jestjs.io/">jest</Link>, <Link href="https://prettier.io/">Prettier</Link>, <Link href="https://eslint.org/">ESLint</Link>, <Link href="https://commitlint.js.org/#/">commitlint</Link>, <Link href="https://typicode.github.io/husky/#/">husky</Link>, <Link href="https://pre-commit.com/">pre-commit</Link>.
                     </>
                   }
                 />
