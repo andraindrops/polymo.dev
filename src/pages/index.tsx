@@ -53,7 +53,7 @@ const Page = (): JSX.Element => {
                   title="Form"
                   description={
                     <>
-                      Basic input form and validation with <Link href="https://react-hook-form.com/">React Hook Form</Link>.
+                      <Link href="https://react-hook-form.com/">React Hook Form</Link>
                     </>
                   }
                 />
@@ -61,7 +61,7 @@ const Page = (): JSX.Element => {
                   title="Auth"
                   description={
                     <>
-                      Sign in / up features and check auth in pages with <Link href="https://next-auth.js.org/">NextAuth</Link>.
+                      <Link href="https://next-auth.js.org/">NextAuth</Link>
                     </>
                   }
                 />
@@ -69,7 +69,7 @@ const Page = (): JSX.Element => {
                   title="GraphQL"
                   description={
                     <>
-                      GraphQL client / server codes with <Link href="https://www.graphql-code-generator.com/">GraphQL Code Generator.</Link>
+                      <Link href="https://www.graphql-code-generator.com/">GraphQL Code Generator</Link>
                     </>
                   }
                 />
@@ -77,7 +77,7 @@ const Page = (): JSX.Element => {
                   title="Database"
                   description={
                     <>
-                      Using ORM and migration with <Link href="https://www.prisma.io/">Prisma</Link> and <Link href="https://www.docker.com/">Docker</Link>.
+                      <Link href="https://www.prisma.io/">Prisma</Link> / <Link href="https://www.docker.com/">Docker</Link>
                     </>
                   }
                 />
@@ -85,7 +85,7 @@ const Page = (): JSX.Element => {
                   title="Styling"
                   description={
                     <>
-                      <Link href="https://chakra-ui.com/">Chakra UI</Link>.
+                      <Link href="https://chakra-ui.com/">Chakra UI</Link>
                     </>
                   }
                 />
@@ -93,7 +93,7 @@ const Page = (): JSX.Element => {
                   title="Test / Link / Formatting"
                   description={
                     <>
-                      <Link href="https://storybook.js.org/">Storybook</Link>, <Link href="https://jestjs.io/">Jest</Link>, <Link href="https://prettier.io/">Prettier</Link>, <Link href="https://eslint.org/">ESLint</Link>, <Link href="https://commitlint.js.org/#/">commitlint</Link>, <Link href="https://typicode.github.io/husky/#/">Husky</Link>, <Link href="https://pre-commit.com/">pre-commit</Link>.
+                      <Link href="https://storybook.js.org/">Storybook</Link> / <Link href="https://jestjs.io/">Jest</Link> / <Link href="https://playwright.dev/">Playwright</Link> / <Link href="https://prettier.io/">Prettier</Link> / <Link href="https://eslint.org/">ESLint</Link> / <Link href="https://commitlint.js.org/#/">commitlint</Link> / <Link href="https://typicode.github.io/husky/#/">Husky</Link>.
                     </>
                   }
                 />
