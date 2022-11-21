@@ -48,7 +48,7 @@ const Page = (): JSX.Element => {
                 <h3 className="text-xl font-bold">Features</h3>
                 <p>We provide basic features with standard OSS.</p>
               </Stack>
-              <Stack className="sm:grid-cols-1 font-mono">
+              <Stack className="font-mono sm:grid-cols-1">
                 <Feature
                   title="Form"
                   description={
